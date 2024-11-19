@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// This program asks the user for their name and greets them with a personalized message.
+// This program asks the user for their name and greets them.
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
